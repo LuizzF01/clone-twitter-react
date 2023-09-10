@@ -1,0 +1,106 @@
+* {
+  margin: 10px;
+  
+}
+
+body{
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+img {
+  width: 100px;
+}
+
+.Container{
+  height: 80vh;
+  width: 70vh;
+  background-color: black;
+  text-align: center;
+  border-radius: 30px;
+  border: 2px solid white;
+}
+
+.Login{
+  width: 70%;
+  height: 70%;
+  margin: auto;
+  display: flex;
+  color: black;
+  flex-direction: column;
+}
+
+#iconeG {
+  width: 25px;
+}
+
+#iconeA {
+  width: 25px;
+}
+
+#textoA{
+  font-weight: bold;
+}
+
+ul {
+  list-style: none;
+  
+}
+
+li {
+  background-color: white;
+  border-radius: 50px;
+  display: flex;
+  width: 300px;
+  cursor: pointer;
+  
+}
+
+.inputext {
+  background-color: black;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  margin: 30px;
+}
+
+.inputext input {
+  height: 60px;
+  width: 300px;
+  background-color: black;
+  border: none;
+  border: 1px solid white;
+  outline: none;
+  color: white;
+  border-radius: 5px;
+  margin-left: -15px;
+}
+
+.inputext label {
+  position: absolute;
+  margin-left: -10px;
+}
+
+#avançar {
+  font-weight: bold;
+ 
+}
+
+.senha{
+  font-weight: bold;
+  background-color: black;
+  color: white;
+  border: 1px soli
+}
+
+#inscreva-se {
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(66, 117, 211);
+}
